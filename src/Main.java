@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("Testar lite till!");
         System.out.println("Och lite till!");
+        System.out.println("hhehe");
     }
 }
